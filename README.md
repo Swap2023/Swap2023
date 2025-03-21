@@ -1,6 +1,6 @@
 - 👋 Hi, I am Swapnil Gosavi.
 - 👀 A Data Science Enthusiast.
-- 🌱 I’m currently learning Python,Machine Learning/Deep Learning/NLP/Computer Vision
+- 🌱 I’m currently learning Advance Python,Machine Learning. 
 - 📫 Swapnil.gosavi01@gmail.com
       All of my projects are available at
       https://github.com/Swap2023
